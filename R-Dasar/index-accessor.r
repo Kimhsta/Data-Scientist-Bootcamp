@@ -15,4 +15,4 @@ print(angka[4:6])
 kode_prodi <- c("DKV","ILKOM","ICT")
 
 # Tampilkan isi indeks ketiga dari kode_prodi
-print(kode_prodi)
+print(kode_prodi[3])
