@@ -1,6 +1,6 @@
 # Membuat Fungsi
 def salam():
-    print("Hello, Selamat Pagi")
+    print("Hello, Selamat Pagi Sayang")
 
 
 
